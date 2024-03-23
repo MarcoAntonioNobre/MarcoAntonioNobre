@@ -5,11 +5,11 @@
 
 # As linguagens que mais utilizo são:
 
--PHP
--HTML5
--CSS
--JS
+- PHP
+- HTML5
+- CSS
+- JS
 
-#Como framework css e js
+# Como framework css e js
 
--Bootstrap
+- Bootstrap
