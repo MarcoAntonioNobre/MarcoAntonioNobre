@@ -8,7 +8,7 @@
 - PHP
 - HTML5
 - CSS
-- JS
+- JavaScript
 
 # Como framework css e js
 
