@@ -24,7 +24,7 @@ Busco expandir minhas habilidades em:
 - **Novas Tecnologias**: Explorando frameworks modernos como React, Angular e Vue.js.
 
 ### Conecte-se Comigo
-📱 **WhatsApp**: [33988661359](tel:+5533988661359)
+📱 **WhatsApp**: [33988661359](https://wa.me/5533988661359)
 
 ✉️ **E-mail**: [marcoantonio3787@gmail.com](mailto:marcoantonio3787@gmail.com)
 
