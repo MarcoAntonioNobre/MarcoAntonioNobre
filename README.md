@@ -28,6 +28,6 @@ Busco expandir minhas habilidades em:
 
 ✉️ **E-mail**: [marcoantonio3787@gmail.com](mailto:marcoantonio3787@gmail.com)
 
-💼 **LinkedIn**: [linkedin.com/in/marcoantonio](https://www.linkedin.com/in/marcoantonio)
+💼 **LinkedIn**: [linkedin.com/in/marco-nobre](https://www.linkedin.com/in/marco-nobre-730a02194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Vamos nos conectar e compartilhar conhecimento! Estou sempre aberto a novas oportunidades e colaborações.
