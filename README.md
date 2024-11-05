@@ -14,7 +14,10 @@
 
 
 ### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
 
+### Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=windows,phpstorm,vscode,github,git&theme=light)](https://skillicons.dev)
 
 ### Conecte-se Comigo
 📱 **WhatsApp**: [33988661359](https://wa.me/5533988661359)
