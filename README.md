@@ -10,7 +10,7 @@
 
 
 ### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=javascript,php,css,html&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,css,html&theme=dark)](https://skillicons.dev)
 
 
 ### Frameworks de CSS e JS que Utilizo
