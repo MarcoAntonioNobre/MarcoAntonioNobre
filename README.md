@@ -2,16 +2,16 @@
 
 - 😃 Tenho 21 anos
 - Programador Web
-- Estudante de Desenvolvimento de Sistemas no SENAI
+- Técnico em Desenvolvimento de Sistemas - 08/2024
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcoAntonioNobre&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Sobre Mim
-Sou um desenvolvedor web, amante da tecnologia. Sempre gostei de tecnologia, tudo que tinha um pouco de tecnologia, um arduíno, me enchia os olhos e me despertava curiosidade. Hoje, tendo um pouco de conhecimento sobre como tudo funciona, posso dizer que ainda me encanto com a tecnologia e mais ainda por entender como tudo é feito e como tudo tem um dedinho da programação. Tenho experiência na criação de sites utilizando PHP, CSS e JavaScript, e estou sempre buscando aprimorar minhas habilidades e aprender novas tecnologias.
 
-### As Linguagens que Mais Utilizo
-- **PHP**: Desenvolvimento de aplicações web dinâmicas e robustas.
-- **JavaScript**: Criação de interfaces interativas e responsivas.
+
+### Linguagens
+[![My Skills](https://skillicons.dev/icons?i=javascript,php,css,html&theme=dark)](https://skillicons.dev)
+
 
 ### Frameworks de CSS e JS que Utilizo
 - **Bootstrap**: Para desenvolver layouts rápidos e responsivos.
