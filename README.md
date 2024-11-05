@@ -7,10 +7,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcoAntonioNobre&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Sobre Mim
+<p>
+No ano de 2023 entrei no curso de Desenvolvimento de Sistemas, durante o curso, comecei a dar os primeiros passos na programação. Desde então venho aprimorando meus conhecimentos e praticando o que já sei.
+</p>
 
 
 ### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=php,javascript,css,html,sql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,javascript,css,html&theme=dark)](https://skillicons.dev)
 
 
 ### Frameworks
