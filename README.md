@@ -1,23 +1,22 @@
-## 👋 Olá, eu sou o Marco Antônio
+## Bem-vindo!
 
-- 😃 Tenho 21 anos
-- Programador Web
+- Tenho 21 anos
+- Programador Back-End PHP Júnior
 - Técnico em Desenvolvimento de Sistemas - 08/2024
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcoAntonioNobre&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Sobre Mim
 <p>
-No ano de 2023 entrei no curso de Desenvolvimento de Sistemas, durante o curso, comecei a dar os primeiros passos na programação. Desde então venho aprimorando meus conhecimentos e praticando o que já sei.
+Me chamo Marco Antônio, tenho 21 anos. Sou Programador PHP Júnior. Estou iniciando minha carreira na área, tenho experiência acadêmica no desenvolvimento de websites e no desenyde sistemas de controle.
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcoAntonioNobre&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=php,javascript,css,html&theme=dark)](https://skillicons.dev)
 
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel&theme=dark)](https://skillicons.dev)
 
 ### Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=windows,phpstorm,vscode,github,git,mysql&theme=dark)](https://skillicons.dev)
