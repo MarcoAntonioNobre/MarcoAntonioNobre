@@ -9,7 +9,7 @@
 Me chamo Marco Antônio, tenho 21 anos. Sou Programador PHP Júnior. Estou iniciando minha carreira na área, tenho experiência acadêmica no desenvolvimento de websites e no desenyde sistemas de controle.
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcoAntonioNobre&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcoAntonioNobre&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=php,javascript,css,html&theme=dark)](https://skillicons.dev)
