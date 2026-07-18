@@ -1,12 +1,12 @@
 ## Bem-vindo!
 
-- Tenho 21 anos
+- Tenho 23 anos
 - Programador Back-End PHP Júnior
 - Técnico em Desenvolvimento de Sistemas - 08/2024
 
 ### Sobre Mim
 <p>
-Me chamo Marco Antônio, tenho 21 anos. Sou Programador PHP Júnior. Estou iniciando minha carreira na área, tenho experiência acadêmica no desenvolvimento de websites e no desenyde sistemas de controle.
+Me chamo Marco Antônio, tenho 23 anos. Sou Programador PHP Júnior. Estou iniciando minha carreira na área, tenho experiência acadêmica no desenvolvimento de websites e no desenyde sistemas de controle.
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MarcoAntonioNobre&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
